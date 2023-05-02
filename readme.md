@@ -1,0 +1,1 @@
+# Apenas um exercicio resolvido para o imc em Python
